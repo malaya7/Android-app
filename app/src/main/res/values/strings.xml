@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="menu_item_top_rated">Top Rated</string>
+    <string name="menu_item_most_popular">most Likes</string>
+    <string name="iv_description">Movie image</string>
+    <string name="tv_title">Title</string>
+    <string name="image">Image</string>
+    <string name="top_rated">top_rated</string>
+    <string name="popular">top_rated</string>
+
+</resources>
